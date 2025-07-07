@@ -27,7 +27,9 @@ Each agent in this system contributes to specific parts of the software developm
 | 🧠 Workflow in Flowise | 📐 Supervisor Prompt UI | 💻 Final Output |
 |------------------------|-------------------------|------------------|
 | ![Workflow]![Screenshot 2025-07-07 170846](https://github.com/user-attachments/assets/3a6b9016-c31c-4421-beb2-9d4abc3d51a4)
- | ![Supervisor UI](./screenshots/supervisor_ui.png) | ![Output](./screenshots/calculator_output.png) |
+ | ![Supervisor UI]![Screenshot 2025-07-07 170638](https://github.com/user-attachments/assets/7918cbcd-bb58-4e0b-a728-cc59e5ee1559)
+ | ![Output]![Screenshot 2025-07-07 170827](https://github.com/user-attachments/assets/b9e964b3-cf08-48a8-a65b-b581ad6fc853)
+ |
 
 ---
 
