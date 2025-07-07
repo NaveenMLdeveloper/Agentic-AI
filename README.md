@@ -24,12 +24,11 @@ Each agent in this system contributes to specific parts of the software developm
 
 ## 📸 Workflow Snapshots
 
-| 🧠 Workflow in Flowise | 📐 Supervisor Prompt UI | 💻 Final Output |
-|------------------------|-------------------------|------------------|
-| ![Workflow]![Screenshot 2025-07-07 170846](https://github.com/user-attachments/assets/3a6b9016-c31c-4421-beb2-9d4abc3d51a4)
- | ![Supervisor UI]![Screenshot 2025-07-07 170638](https://github.com/user-attachments/assets/7918cbcd-bb58-4e0b-a728-cc59e5ee1559)
- | ![Output]![Screenshot 2025-07-07 170827](https://github.com/user-attachments/assets/b9e964b3-cf08-48a8-a65b-b581ad6fc853)
- |
+
+🧠 Workflow in Flowise[Screenshot 2025-07-07 170846](https://github.com/user-attachments/assets/3a6b9016-c31c-4421-beb2-9d4abc3d51a4)
+ 📐 Supervisor Prompt UI[Screenshot 2025-07-07 170638](https://github.com/user-attachments/assets/7918cbcd-bb58-4e0b-a728-cc59e5ee1559)
+ 💻 Final Output [Screenshot 2025-07-07 170827](https://github.com/user-attachments/assets/b9e964b3-cf08-48a8-a65b-b581ad6fc853)
+ 
 
 ---
 
@@ -63,7 +62,7 @@ This agent-based system creates a complete modern calculator UI with:
 ---
 
 ## 🙌 Created By
-
+**[LinkedIn ](https://www.linkedin.com/in/naveenkumar8248/)** 
 **[@NaveenMLdeveloper](https://github.com/NaveenMLdeveloper)**  
 Exploring Agentic AI, Flowise automation, and LLM-based development workflows.
 
