@@ -25,10 +25,15 @@ Each agent in this system contributes to specific parts of the software developm
 ## 📸 Workflow Snapshots
 
 
-🧠 Workflow in Flowise[Screenshot 2025-07-07 170846](https://github.com/user-attachments/assets/3a6b9016-c31c-4421-beb2-9d4abc3d51a4)
- 📐 Supervisor Prompt UI[Screenshot 2025-07-07 170638](https://github.com/user-attachments/assets/7918cbcd-bb58-4e0b-a728-cc59e5ee1559)
- 💻 Final Output [Screenshot 2025-07-07 170827](https://github.com/user-attachments/assets/b9e964b3-cf08-48a8-a65b-b581ad6fc853)
- 
+🧠 Workflow in Flowise
+![workflow](https://github.com/user-attachments/assets/2ed60c70-ed68-49ad-adf6-be1fe14da3d4)
+
+ 📐 Supervisor Prompt UI
+ ![Intract with Team](https://github.com/user-attachments/assets/cb3df65a-d6ea-40d3-9f34-36a69c4a7188)
+
+ 💻 Final Output
+ ![output](https://github.com/user-attachments/assets/d7d7ed12-d74a-4bfb-9c44-cd0d43f706a4)
+
 
 ---
 
